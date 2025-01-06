@@ -1,0 +1,11 @@
+{
+  "password": "myCurrentPassword",
+  "username": "elon_musk",
+  "passwordsUsed": [
+    "myFirstPassword",
+    "mySecondPassword"
+  ],
+  "fullName": "Elon Musk",
+  "birthDate": "06/01/1998",
+  "email": "elon.musk@email.com"
+}
